@@ -34,3 +34,12 @@ Developing a breast cancer predictor using machine learning may involve several 
            
 # Any Improvement in the project that can be foreseen to implement in future?
 Machine learning can improve breast cancer prediction by analyzing large amounts of patient data to identify patterns and predict the likelihood of developing breast cancer. This can help healthcare providers identify high-risk patients earlier, improve personalized treatment planning, and reduce unnecessary interventions, potentially leading to improved patient outcomes.
+
+# Tools Used
+```
+Jupyter Notebook
+Numpys and Pandas
+Matplotlib
+Seaborn
+```
+		
